@@ -100,5 +100,3 @@ Install all dependencies using the provided `requirements.txt` file.
 For any questions or issues, please open an issue on the repository or contact the maintainers.
 
 ---
-
-This README provides a complete and professional documentation format for your project, including setup instructions, usage, and results. Let me know if further refinements are required!
