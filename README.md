@@ -1,7 +1,3 @@
-Here’s a refined and detailed version of the README file for your repository:
-
----
-
 # Wafer Map Defect Classification Using CDADA
 
 This repository contains the implementation of the **Classifier-Constrained Deep Adversarial Domain Adaptation (CDADA)** framework, designed for wafer map defect classification in semiconductor manufacturing. The framework addresses domain shifts and class imbalances to classify complex mixed-defect patterns effectively.
