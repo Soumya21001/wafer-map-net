@@ -6,7 +6,7 @@ This repository contains the implementation of the **Classifier-Constrained Deep
 
 ## Features
 - **Domain Adaptation:** Aligns features from the source and target domains using adversarial learning.
-- 
+  
 ---
 
 ## Data Setup
